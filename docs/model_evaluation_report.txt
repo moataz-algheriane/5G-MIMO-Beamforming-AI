@@ -1,0 +1,7 @@
+========================================================================
+                5G BEAMFORMING MODEL PERFORMANCE REPORT                 
+========================================================================
+Overall Classification Accuracy: 99.38%
+Overall Mean Absolute Error (MAE): 0.013128
+Overall Vector Cosine Similarity: 0.990082
+========================================================================
